@@ -1,0 +1,1 @@
+REPLACE users VALUES(1, 'noname', 'nosurname', '', '')

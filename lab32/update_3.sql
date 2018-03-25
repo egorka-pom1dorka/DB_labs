@@ -1,0 +1,1 @@
+UPDATE usings SET  date_coming = '2018-03-17 15:00:00', date_leaving = '2018-03-20 16:00:00' WHERE id IN(2, 3) 

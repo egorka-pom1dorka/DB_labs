@@ -1,0 +1,1 @@
+UPDATE users SET comment = 'Неплохой постоялец', fname = 'Васильев' WHERE id = 5

@@ -1,0 +1,1 @@
+UPDATE rooms SET price = price * 1.5

@@ -1,0 +1,1 @@
+DELETE FROM usings WHERE date_leaving > "2018-03-24 15:00:00"
